@@ -1,0 +1,7 @@
+{
+  "name": "SOOATEL - Hôtel & Restaurant de Prestige",
+  "description": "An ultra-premium, luxury hotel website for SOOATEL in Antananarivo, Madagascar, featuring high-end aesthetics and immersive animations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
