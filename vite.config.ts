@@ -5,3 +5,4 @@ export default defineConfig({
   base: '/Sooatel/',
   plugins: [react()],
 })
+
